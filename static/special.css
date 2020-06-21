@@ -1,0 +1,67 @@
+h1{
+    color: white;
+    text-align: center;
+    margin: 32px 12px;
+}
+#con{
+    display: grid;
+    grid-template-columns: repeat(2, 569px);
+    grid-gap: 3rem;
+    text-align: end;
+    margin: 0px 220px;
+    height: 900px;
+}
+#con img{
+    border: 2px solid #3F0C1F;
+}
+h2{
+    color: white;
+}
+p{  margin: 1px 1px;
+    color: white;
+}
+.pr{
+    position: absolute;
+    top: 250px;
+    left: 481px;
+}
+h3{
+    margin: 45px 0px;
+    color: white;
+}
+.a{
+    position: absolute;
+    top: 485px;
+    left: 481px;
+}
+.b{
+    position: absolute;
+    top: 724px;
+    left: 481px;
+}
+.c{
+    position: absolute;
+    top: 959px;
+    left: 481px;
+}
+.d{
+    position: absolute;
+    top: 250px;
+    left: 1098px;
+
+}
+.e{
+    position: absolute;
+    top: 485px;
+    left: 1098px;
+}
+.f{
+    position: absolute;
+    top: 724px;
+    left: 1098px;
+}
+.g{
+    position: absolute;
+    top: 959px;
+    left: 1098px;
+}

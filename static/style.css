@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,500&display=swap');
+body{
+    background-color: #61122f;
+    top: 0;
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    background-color: #f6b319;
+    height: 170px;
+    display: flex;
+    flex-direction: row;
+}
+#logo img{
+    margin: 10px 179px;
+}
+#david h1{
+    font-family: 'Lora', serif;
+    color: #557c3e;
+    font-size: 29px;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+    margin: 26px -173px;
+}
+#david a{
+    text-decoration: none;
+}
+#star{
+    margin: -17px -177px;
+    padding: 11px 0px;
+}
+#star img{
+    margin: -7px 3px;
+}
+#icons{
+    margin: -20px 222px;
+    padding: -10px 15px;
+    display: block;
+    width: 26%;
+    height: 54%;
+}
+#icons i{
+    margin: 45px 20px;
+    text-align: center;
+}
+#icons a{
+    color: #61122f;
+    font-size: 22px;
+    margin: 26px 6px;
+    padding: 5px 0px;
+}
+#icons a:hover{
+    background-color: white;
+}
+#no h6{
+    font-size: 31px;
+    margin: 18px -188px;
+    color:#61122f ;
+
+}
+#no p{
+    font-size: 20px;
+    margin: -10px -125px;
+    color: green;
+}
+#photo{
+    text-align: center;
+    margin: 24px 0px;
+}
+#photo img{
+    border: 2px solid #3F0C1F;
+    box-shadow: brown;
+    border-radius: 10px;
+}
+#container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 8px 11px 61px 14px;
+}
+.box{
+    margin: 12px 12px;
+
+}
+#container a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+#container p{
+    color: white;
+    position: absolute;
+    width: 24%;
+    background-color: black;
+    text-align: center;
+    padding: 8px 0px;
+    margin: -43px -2px;
+    opacity: 0.8;
+}
+#container img{
+    border: 2px solid #3F0C1F;
+} 
+#container img:hover{
+    box-shadow: 1px 1px 6px 1px white
+} 
+#maps p{
+    position: absolute;
+    width: 23%;
+    padding: 32px -23px;
+    margin: -42px 0px;
+    font-size: 21px;
+}
+#maps{
+    margin: 12px 12px;
+    border: 2px solid #3F0C1F;
+    border-radius: 10px;
+}
+#maps:hover {
+    box-shadow: 1px 1px 6px 1px white
+}
+#footer{
+    background-color: #222;
+    height: 270px;
+    width: 1550px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0px auto;
+}
+.sec1{
+    padding: 0px -41px;
+    margin: 0px 196px;
+}
+.sec2{
+    padding: 0px 45px;
+}
+.sec3{
+    padding: 1px 92px;
+    margin: 2px -24px;
+}
+#footer h5{
+    color: white;
+    font-size: 20px;
+}
+#footer p{
+    color: white;
+    font-size: 17px;
+}
+.sec2 span{
+    color: green;
+    font-size: 14px;
+}
+#foot {
+    justify-content: center;
+    background-color: #222;
+    width: 100%;
+    text-align: center;
+    height: 45px;
+    margin-top: -41px;
+}
+#foot p {
+    color: white;
+}

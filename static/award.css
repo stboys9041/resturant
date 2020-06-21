@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    color: white;
+}
+p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+#box{
+    height: 40%;
+}
